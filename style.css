@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#content {
+    text-align: center;
+}
+#content img{
+    width: 70%;
+}
+#content p{
+    border: 2px gray solid;
+}
+
